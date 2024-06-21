@@ -4,12 +4,14 @@
 This repository contains an in-depth analysis of road accidents reported during the year 2022. The analysis encompasses various aspects such as casualty demographics, severity, vehicle types, and more. Both the code and a detailed report summarizing the findings are provided to offer comprehensive insights into road safety trends and patterns.
 
 ## Contents
-- **road_casualty.ipynb**: Jupyter notebook containing the code and analysis for exploring road accidents data. Check out this [link](https://nbviewer.org/github/MohammadReza-Ghotbizadeh/Road_Casualty/blob/main/road_casualty.ipynb) for better visualization.
-- **Report.pdf**: Detailed report presenting the findings and insights from the road accidents analysis for the year 2022.
-- **dft-road-casualty-statistics-casualty.csv**: CSV file containing the road accidents data for the year 2022.
-- **clean_data.csv**: CSV file containing the processed and cleaned dataset obtained after data cleaning operations on the raw data, ready for further analysis, visualization, and modeling tasks.
-- **Dimensions.csv**: Multi-sheet CSV file containing various mapping tables used to categorize and provide additional context to the data in clean_data.csv, enhancing its interpretability and usability.
-- **requirements.txt**: List of Python dependencies required to run the notebook.
+- **[road_casualty.ipynb](road_casualty.ipynb):** Jupyter notebook containing the code and analysis for exploring road accidents data. Check out this [link](https://nbviewer.org/github/MohammadReza-Ghotbizadeh/Road_Casualty/blob/main/road_casualty.ipynb) for better visualization.
+- **[Report.pdf](Report.pdf):** Detailed report presenting the findings and insights from the road accidents analysis for the year 2022.
+- **[dft-road-casualty-statistics-casualty.csv](dft-road-casualty-statistics-casualty.csv):** CSV file containing the road accidents data for the year 2022.
+- **[clean_data.csv](clean_data.csv):** CSV file containing the processed and cleaned dataset obtained after data cleaning operations on the raw data, ready for further analysis, visualization, and modeling tasks.
+- **[Dimensions.xlsx](Dimensions.xlsx):** Multi-sheet CSV file containing various mapping tables used to categorize and provide additional context to the data in clean_data.csv, enhancing its interpretability and usability.
+- **[RC_Dashboard.pbix](RC_Dashboard.pbix):** Power BI dashboard file that provides interactive visualizations and insights from the road accidents data.
+- **[RC_Dashboard.png](RC_Dashboard.png):** Image file of the Power BI dashboard providing a quick preview of the interactive visualizations and insights.
+- **[requirements.txt](requirements.txt):** List of Python dependencies required to run the notebook.
 
 ## Usage
 1. **Clone the Repository**: Begin by cloning this repository 
